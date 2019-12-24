@@ -180,3 +180,6 @@
 157为什么要讨论白皮书？ 
 158“友谊”，还是侵略？ 
 159唯心历史观的破产 
+
+第五卷
+http://www.quanxue.cn/LS_Mao/XuanJiEIndex.html
