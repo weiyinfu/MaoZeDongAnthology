@@ -4,3 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "毛泽东选集"
+
+[output.html]
+default-theme = 'rust'
