@@ -1,3 +1,5 @@
+本文档使用mdbook构建，[点此阅读](https://weiyinfu.cn/MaoZeDongAnthology/)
+
 # 第一卷 国内革命战争时期
 ## 第一次国内革命战争时期
 * [000-中国社会各阶级的分析](./src/000-中国社会各阶级的分析.md)
